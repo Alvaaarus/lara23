@@ -1,0 +1,46 @@
+{
+  "jugadores": [
+    {
+      "id": 1,
+      "equipo_id": 1,
+      "nombre": "Robert Lewandowski",
+      "posicion": "Delantero",
+      "numero": 9
+    },
+    {
+      "id": 2,
+      "equipo_id": 1,
+      "nombre": "Pedri",
+      "posicion": "Mediocampista",
+      "numero": 8
+    },
+    {
+      "id": 3,
+      "equipo_id": 2,
+      "nombre": "Erling Haaland",
+      "posicion": "Delantero",
+      "numero": 9
+    },
+    {
+      "id": 4,
+      "equipo_id": 2,
+      "nombre": "Kevin De Bruyne",
+      "posicion": "Mediocampista",
+      "numero": 17
+    },
+    {
+      "id": 5,
+      "equipo_id": 3,
+      "nombre": "Gabriel fernández",
+      "posicion": "Delantero",
+      "numero": 21
+    },
+    {
+      "id": 6,
+      "equipo_id": 3,
+      "nombre": "Erick Lira",
+      "posicion": "Mediocampista",
+      "numero": 8
+    }
+  ]
+}

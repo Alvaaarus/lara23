@@ -1,0 +1,43 @@
+{
+  "botas_futbol": [
+    {
+      "marca": "Nike",
+      "modelos_populares": [
+        "Nike Mercurial (Serie V)",
+        "Nike Phantom (Serie X)",
+        "Nike Tiempo Legend"
+      ]
+    },
+    {
+      "marca": "Adidas",
+      "modelos_populares": [
+        "Adidas Predator (Serie X)",
+        "Adidas Copa Mundial",
+        "Adidas Copa",
+        "Adidas X (serie de velocidad)"
+      ]
+    },
+    {
+      "marca": "Puma",
+      "modelos_populares": [
+        "Puma Future",
+        "Puma Racer",
+        "Puma Ode"
+      ]
+    },
+    {
+      "marca": "Salomon",
+      "modelos_populares": [
+        "Salomon X Ultra",
+        "Salomon Sense"
+      ]
+    },
+    {
+      "marca": "On Running",
+      "modelos_populares": [
+        "On Ten",
+        "On Cloud"
+      ]
+    }
+  ]
+}
