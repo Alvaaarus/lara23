@@ -31,9 +31,14 @@ class CategoryController extends Controller
         return response()->json($category);
     }
 
-    public function destroy(Category $category)
-    {
-        $category->delete();
-        return response()->json(null, 204);
-    }
+   public function destroy(Category $category)
+{
+    // Eliminar primero los productos asociados
+    $category->products()->delete();
+    
+    // Luego eliminar la categoría
+    $category->delete();
+    
+    return response()->json(null, 204);
+}
 }
